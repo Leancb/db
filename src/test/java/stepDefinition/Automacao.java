@@ -47,6 +47,7 @@ public class Automacao {
                 navegador.findElement(By.xpath("//*[@id=\"add_to_cart\"]/button/span")).click();
             navegador.switchTo().defaultContent();
        }
+
     }
     @Quando ("^Prossiga para o checkout$")
     public void abreCheckou() throws InterruptedException {
