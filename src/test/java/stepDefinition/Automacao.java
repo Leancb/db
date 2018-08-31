@@ -1,5 +1,6 @@
 /*
 Autor: Leandro Brum
+QA Automação
  */
 
 package stepDefinition;
