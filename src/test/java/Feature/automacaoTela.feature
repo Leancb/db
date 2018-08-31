@@ -1,8 +1,8 @@
 # language: pt
 Funcionalidade:
-  Eu, enquanto teste
-  Preciso teste
-  Para teste
+  Eu, enquanto candidato a uma vaga de automação
+  Preciso automatizar um cenário de testes
+  Para ser avaliado se estou qualificado a vaga
 
   Esquema do Cenário: realizar uma compra com sucesso
       Dado que acessei o site para o teste
